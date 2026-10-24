@@ -1,0 +1,8 @@
+{
+  "name": "PDF Quiz Generator",
+  "description": "Generate grounded, multiple-choice quizzes directly from PDF documents with source citation and explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
